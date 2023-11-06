@@ -83,4 +83,11 @@
         </plugin>
         </plugins>
     </build>
+	  <distributionManagement>
+    <repository>
+      <id>internal.repo</id>
+      <name>MyCo Internal Repository</name>
+      <url>c://Users/miker</url>
+    </repository>
+  </distributionManagement>
 </project>
